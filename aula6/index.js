@@ -1,5 +1,3 @@
-let nome; //Declarou a variável
-nome = 'João'; //Atribuiu um valor a variável
-console.log(nome);
-nome = 'Otavio';
-console.log(nome);
+//Não podemos criar variaveis com palavras reservadas do proprio js
+//Variaveis precisam ter nomes significativos
+let n = 'joão';
