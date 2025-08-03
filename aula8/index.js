@@ -16,4 +16,4 @@ console.log(`Meu nome é ${nome} ${sobrenome}, tenho ${idade} anos, peso ${peso}
 
 // console.log(nome, sobrenome, 'tem', idade, 'anos, pesa', peso, 'kg')
 // console.log('tem', alturaEmM, 'de altura e seu ICM é de', indeceMassaCorporal);
-// console.log(nome, 'nasceu em', anoNascimento, '.');
+// console.log(nome, 'nasceu em', anoNascimento, '.');  
