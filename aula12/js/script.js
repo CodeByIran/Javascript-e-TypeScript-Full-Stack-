@@ -1,0 +1,1 @@
+alert('Com a idade de 18 anos você pode votar!');
